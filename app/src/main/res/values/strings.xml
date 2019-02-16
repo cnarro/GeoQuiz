@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="peru_question">¿Es Lima la capital de Perú?</string>
+    <string name="chile_question">¿Es Arica la capital de Chile?</string>
+    <string name="colombia_question">¿Es Caracas una ciudad de Colombia?</string>
+
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <string name="answer_correct">Es correcto</string>
+    <string name="answer_incorrect">Es incorrecto</string>
+    <string name="btn_previous">Anterior</string>
+    <string name="btn_next">Siguiente</string>
+</resources>
